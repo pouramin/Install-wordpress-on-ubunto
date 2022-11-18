@@ -146,13 +146,13 @@ tar -xvf latest.tar.gz
 cp -R wordpress /var/www/html/
 ```
 
-###### Run to change the ownership
+###### Run to change the ownership : تغییر مالکیت فولدر وردپرس
 
 ```
 chown -R www-data:www-data /var/www/html/wordpress/
 ```
 
-###### change permission to WP folder
+###### change permission to WP folder : تغییر دسترسی  فولدر
 
 ```
 chmod -R 755 /var/www/html/wordpress/
