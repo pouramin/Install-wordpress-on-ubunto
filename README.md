@@ -27,6 +27,15 @@ https://berbidserver.com/portal/aff.php?aff=53
 https://dashboard.azaronline.com/order/?aff=790
 ```
 
+**If you think this project is helpful to you, you may wish to give a** 🌟
+
+**Feel Free for Donation :** ❤️
+
+>TRC20: ```TGTyqv2MH7dZztMvaP5PKuS9Bma8RY5Pk8```
+
+>ETH: ```0x5b5202a54e5ce4fb25f0d886254eeb07bb088614```
+
+
 
 ###### Update & Upgrade Server : آپدیت و آپگرید سرور
 
