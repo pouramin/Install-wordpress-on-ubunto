@@ -29,7 +29,7 @@ https://dashboard.azaronline.com/order/?aff=790
 
 **If you think this project is helpful to you, you may wish to give a** 🌟
 
-**Feel Free for Donation :** ❤️
+**Feel Free To Donation :** ❤️
 
 >TRC20: ```TGTyqv2MH7dZztMvaP5PKuS9Bma8RY5Pk8```
 
